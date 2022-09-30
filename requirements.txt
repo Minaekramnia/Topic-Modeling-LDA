@@ -3,7 +3,7 @@ funcy==1.14
 future==0.18.2
 importlib-metadata==1.6.0
 Jinja2==2.11.2
-joblib==0.14.1
+joblib==1.2.0
 MarkupSafe==1.1.1
 more-itertools==8.2.0
 numexpr==2.7.1
